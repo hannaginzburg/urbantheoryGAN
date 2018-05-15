@@ -1,4 +1,7 @@
 ﻿# urban_theory_GAN
+## Kai Matheson & Hanna Ginzburg, Vassar College
+## This work was completed as part of an independent study on machine learning.
+
 
 <p align="center">
 <img src="https://github.com/hannaginzburg/urbantheoryGAN/blob/master/giphy.gif">
