@@ -1,7 +1,7 @@
 ﻿# urban_theory_GAN
 
 <p align="center">
-![This is a gif of 2000 epochs on the 28x28 images.](https://github.com/hannaginzburg/urbantheoryGAN/blob/master/giphy.gif)
+<img src="https://github.com/hannaginzburg/urbantheoryGAN/blob/master/giphy.gif">
 </p>
 
 
