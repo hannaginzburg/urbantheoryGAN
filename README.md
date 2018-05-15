@@ -1,4 +1,7 @@
-# urban_theory_GAN
+﻿# urban_theory_GAN
+
+![This is a gif of 2000 epochs on the 28x28 images.](https://github.com/hannaginzburg/urbantheoryGAN/blob/master/giphy.gif)
+
 
 This project aims to reclassify the American city and challenge existing urban sector models. The motivation behind the project is the conception that existing theoretical models of U.S. cities are too general to be accurate. Furthermore, the assumptions crucial to laying the groundwork for some of these models may be spurious; for example, demand behavior might not actually manifest as it appears in the concentric ring theory (that wealthier, working consumers cluster towards a city center and lower-paid consumers cluster around the outside of a metropolitan area).
 
